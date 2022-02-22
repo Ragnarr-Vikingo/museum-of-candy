@@ -1,2 +1,2 @@
 # museum-of-candy
-Udemy Training - The Web Developer Bootcamp (Colt Steele)
+Bootstrap 5: Udemy Training - The Web Developer Bootcamp (Colt Steele)
